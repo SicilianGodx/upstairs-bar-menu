@@ -1,0 +1,105 @@
+html {
+    background-color: black;
+    font-family:'Times New Roman', Times, serif;
+    color: #BA6E1DCC;
+    box-sizing: border-box;
+    margin: -22px 0 0;
+    padding: 0;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+background: linear-gradient(
+    90deg,
+    hsl(0deg 0% 0%) 0%,
+    hsl(344deg 0% 6%) 10%,
+    hsl(344deg 0% 10%) 20%,
+    hsl(344deg 0% 13%) 30%,
+    hsl(344deg 0% 17%) 40%,
+    hsl(0deg 0% 21%) 50%,
+    hsl(344deg 0% 17%) 60%,
+    hsl(344deg 0% 13%) 70%,
+    hsl(344deg 0% 10%) 80%,
+    hsl(344deg 0% 6%) 90%,
+    hsl(0deg 0% 0%) 100%
+    );
+    height: 100%;
+    width: 390px;
+    margin: 0 auto;
+}
+
+h1, h2 {
+    text-align: center;
+    font-style: italic;
+    color: #BA6E1DEE;
+    text-shadow: -2px 2px #000000;
+}
+
+h1 {
+    vertical-align: bottom;
+    padding-top: 40px;
+}
+
+h2 {
+    margin-bottom: 32px;
+}
+
+hr {
+    border-color: #FFFFFFAA;
+}
+
+.spirit {
+    width: 48%;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: italic;
+    vertical-align: top;
+    padding: 0;
+}
+
+.spirit-border {
+    width: 70%;
+    margin-top: -20px;
+}
+
+.spirit ul {
+    padding: 0;
+}
+
+.spirit li {
+    list-style-type: none;
+    font-style: italic;
+    text-align: center;
+    margin-top: 20px;
+    padding: 0;
+}
+
+.spirit p {
+    font-size: 14px;
+    font-weight: normal;
+    color: #FFFFFFAA;
+    text-align: center;
+    height: 50px;
+    width: 60%;
+    margin: 10px auto 0;
+    padding-bottom: 18px;
+}
+
+
+.bottom-spirit {
+    margin-top: 40px;
+}
+
+.bottom-desc {
+    margin-bottom: 60px;
+}
+
+.left {
+    margin-left: 12.8px;
+}
